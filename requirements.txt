@@ -1,6 +1,5 @@
 altair==5.5.0
 annotated-types==0.7.0
-anyio @ file:///C:/miniconda3/conda-bld/anyio_1758622521119/work
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///C:/miniconda3/conda-bld/argon2-cffi-bindings_1757925007150/work
 asttokens @ file:///C:/b/abs_9662ywy9fp/croot/asttokens_1743630464377/work
