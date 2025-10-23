@@ -22,7 +22,7 @@ def run():
         st.success(sentiment)
 
 if __name__ == "__main__":
-=======
+
 import streamlit as st
 import pandas as pd
 import joblib
@@ -47,5 +47,4 @@ def run():
         st.success(sentiment)
 
 if __name__ == "__main__":
->>>>>>> ed333dbda68e7f0cc2c879c1c25723164f624140
     run()
