@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import numpy as np
 import pandas as pd
 import regex as re
@@ -44,7 +44,7 @@ class preprocessor(TransformerMixin, BaseEstimator):
         return self
 
     def transform(self, X):
-=======
+
 import numpy as np
 import pandas as pd
 import regex as re
@@ -90,5 +90,5 @@ class preprocessor(TransformerMixin, BaseEstimator):
         return self
 
     def transform(self, X):
->>>>>>> ed333dbda68e7f0cc2c879c1c25723164f624140
+
         return X.apply(clean_text).apply(convert_text)
